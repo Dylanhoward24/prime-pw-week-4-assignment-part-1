@@ -24,9 +24,9 @@ console.log('Test - should say "Hello, Dylan!"', helloName());
 function addNumbers(num0, num1) {
   let answer = num0 + num1;
    return answer;
-  // return firstNumber + secondNumber;
-  console.log( 'Adding numbers 4 and 5:', addNumbers(4, 5) );
 }
+  // return firstNumber + secondNumber;
+console.log( 'Adding numbers 4 and 5:', addNumbers(4, 5) );
 
 // 4. Function to multiply three numbers & return the result
 function multiplyThree( ){
